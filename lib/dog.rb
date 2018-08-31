@@ -74,4 +74,5 @@ class Dog
     sql = <<-SQL
     
     SQL
+  end
 end
